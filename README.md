@@ -6,6 +6,6 @@ I believe I have it set up on GitHub where you need to put the Midterm folder in
 
 The most challenging part of this assignment was actually constructing the maze itself. It was a bit awkward to position all walls within the camera, but it was great practice and I'm getting used to it.
 
-Below is a gif of me playing the game for 10 seconds.
+Below is a short gif of me playing the game.
 
-<img width="1240" height="694" alt="MazeGameRolling" src="https://github.com/user-attachments/assets/e6cbb9b1-3d28-415e-8794-08ff542b784b" />
+<img width="1236" height="690" alt="MazeGameRolling2" src="https://github.com/user-attachments/assets/c43523e3-de8f-4799-8127-1608007943c1" />
